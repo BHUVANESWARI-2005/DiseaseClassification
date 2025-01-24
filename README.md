@@ -1,4 +1,4 @@
-# Disease Classification Model
+# Disease Classification Model-Ensemble Model
 
 **Project Overview**
 
